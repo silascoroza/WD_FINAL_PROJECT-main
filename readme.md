@@ -4,23 +4,22 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WEBSITE PORTFOLIO</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to my personal portfolio website! Explore my Home page for an introduction, learn more about my background and experiences in the About Me section, and see my work and achievements on the Projects page. Discover my skills and interests, and check out the Credits page to see the resources and contributions that have supported my journey.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://github.com/silascoroza/WD_FINAL_PROJECT-main.git)
 
 ---
 
@@ -56,21 +55,23 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+My website features a user-friendly navigation bar with links to Home, About, Projects, Skills and Interests, and Credits pages. On the Home page, you'll find links to my social media profiles, including Instagram and Facebook. The About page offers detailed information about my background and experiences. The Projects page showcases all my work in neatly organized containers, with an upward scroll button to easily browse through the projects. The Skills and Interests page highlights my various competencies and passions. Finally, the Credits page acknowledges the individuals and resources that have supported me in my design journey.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+Navigation Bar: Provides easy access to different sections of the website, including Home, About, Projects, Skills and Interests, and Credits.
+
+Home Page: Features links to your social media profiles (Instagram and Facebook) and a welcoming section with your tagline or a brief introduction.
+
+About Page: Contains detailed information about your background, experiences, and personal story.
+
+Projects Page: Showcases all your projects in organized containers, along with a button to scroll up and view all projects easily.
+
+Skills and Interests Page: Highlights your various skills, competencies, and interests.
+
+Credits Page: Acknowledges the individuals and resources that have supported you in your journey, offering thanks and recognition.
+
+Social Media Links: Icons and links to your Instagram and Facebook profiles for visitors to connect with you.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -90,26 +91,69 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD_FINAL_PROJECT-main
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ image1.jpg
+|   |   └─ image2.jpg
+|   |   └─ image3.jpg
+|   |   └─ image4.png
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+|  └─ about
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ about-image1.jpg
+|  |  |  |  └─ about-image2.jpg
+|  |  |  |  └─ about-image3.jpg
+|  |  |  |  └─ about-image4.png
+|  |  |  └─ js
+|  |  |     └─ script.js
+|  |  └─ index.html
+|  └─ projects
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ project-image1.jpg
+|  |  |  |  └─ project-image2.jpg
+|  |  |  |  └─ project-image3.jpg
+|  |  |  |  └─ project-image4.png
+|  |  |  └─ js
+|  |  |     └─ script.js
+|  |  └─ index.html
+|  └─ skills-and-interests
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ skills-image1.jpg
+|  |  |  |  └─ skills-image2.jpg
+|  |  |  |  └─ skills-image3.jpg
+|  |  |  |  └─ skills-image4.png
+|  |  |  └─ js
+|  |  |     └─ script.js
+|  |  └─ index.html
+|  └─ credits
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |  |  └─ credits-image1.jpg
+|  |  |  |  └─ credits-image2.jpg
+|  |  |  |  └─ credits-image3.jpg
+|  |  |  |  └─ credits-image4.png
+|  |  |  └─ js
+|  |  |     └─ script.js
+|  |  └─ index.html
 └─ index.html
 └─ readme.md
+
 ```
 
 ## Resources
@@ -117,4 +161,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Youtube | For invaluable tutorials and creative insights   | https://www.youtube.com/ |
+| Pinterest | Image Source | https://ph.pinterest.com/pin/13581236381228045/ |
+| Google Fonts | For elevating my typography game | https://fonts.google.com/ |
+| Fontawesome | For enhancing visual appeal with icons | https://fontawesome.com/icons/facebook?f=brands&s=solid |
+| Removebg | For Background Removal | https://www.remove.bg/upload |
