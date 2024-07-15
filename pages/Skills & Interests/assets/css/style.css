@@ -8,7 +8,7 @@
 body {
     font-family: romalika;
     height: 100vh;
-    background-image: url(../../assets/img/background.jpg);
+    background-image: url(../../assets/img/bgground4th.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0; 
@@ -136,10 +136,10 @@ header nav ul li a {
    position: absolute;
    font-size: 70px;
    font-weight: 700px;
-   margin-top: -50rem;
+   margin-top: -51rem;
    margin-left: 1rem;
    line-height: 1.2;
-   color: rgb(15, 92, 185);
+   color: rgb(224, 114, 10);
    letter-spacing: 5px;
    z-index: 1;
 }

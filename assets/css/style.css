@@ -8,7 +8,7 @@
 body {
     font-family: romalika;
     height: 100vh;
-    background-image: url(../img/background.jpg);
+    background-image: url(../img/bgground1stpg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -156,13 +156,13 @@ header nav ul li a {
 .glitch {
     position: relative;
     font-size: 100px;
-    font-family: romalika;
+    font-family: votlesta;
     margin-top: 21rem;
     font-weight: 700;
     margin-left: 35rem;
     line-height: 1.2;
     color: #222632;
-    letter-spacing: 40px;
+    letter-spacing: 13px;
     z-index: 1;
  }
  
