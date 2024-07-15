@@ -72,7 +72,8 @@ Skills and Interests: Highlights your skills and personal interests, giving visi
 Credits Section: Acknowledges and gives thanks to individuals and resources that have played a significant role in your design journey and beyond.
 
 ## Deployment link
-https://silascoroza.github.io/WD_FINAL_PROJECT-main/
+
+https://wakatime.com/projects/WD_FINAL_PROJECT
 
 ## Links of other Projects
 
