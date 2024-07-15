@@ -76,17 +76,17 @@ https://silascoroza.github.io/WD_FINAL_PROJECT-main/
 
 ## Links of other Projects
 
--HANDS ON 2
+- HANDS ON 2
 https://github.com/silascoroza/WD-HandsOn02-Project.git
--Seatwork 3
+- Seatwork 3
 https://github.com/silascoroza/WD-SEATWORK3-PROJECT.git
--Activity 1
+- Activity 1
 https://github.com/silascoroza/WD-activity-1.git
--Seatwork 2
+- Seatwork 2
 https://github.com/silascoroza/WD-sw-2.git
--Midterm Activity
+- Midterm Activity
 https://github.com/silascoroza/WD-Midterm.git
--Seatwork 4
+- Seatwork 4
 https://github.com/silascoroza/WD_SW4_PROJECT-main.git
 
 ## Wakatime
