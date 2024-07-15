@@ -90,7 +90,7 @@ https://github.com/silascoroza/WD-Midterm.git
 https://github.com/silascoroza/WD_SW4_PROJECT-main.git
 
 ## Wakatime
-https://wakatime.com/projects/WD_FINAL_PROJECT#:~:text=Projects%20%C2%B7%20WD_FINAL_PROJECT-,total,24%20hrs%2018%20mins,-Your%20time%20in
+https://wakatime.com/@31286ad9-10c2-48f3-8e50-8a7779687ae5/projects/oydgajqgov?start=2024-07-09&end=2024-07-15
 
 ### Technology
 <!-- TODO: List of Technology Used -->
