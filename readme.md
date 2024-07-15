@@ -55,23 +55,21 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-My website features a user-friendly navigation bar with links to Home, About, Projects, Skills and Interests, and Credits pages. On the Home page, you'll find links to my social media profiles, including Instagram and Facebook. The About page offers detailed information about my background and experiences. The Projects page showcases all my work in neatly organized containers, with an upward scroll button to easily browse through the projects. The Skills and Interests page highlights my various competencies and passions. Finally, the Credits page acknowledges the individuals and resources that have supported me in my design journey.
+My website features a comprehensive navigation menu with sections including Home, About, Projects, Skills and Interests, and Credits. The Home page provides links to my social media profiles like Instagram (IG) and Facebook (FB). The About section offers detailed insights into my background and personal information. Moving on to Projects, visitors can explore a collection of my projects displayed in containers. Each project container includes buttons for deployment and accessing the repository, along with an option to button down for convenient navigation. The Skills and Interests section showcases my areas of expertise and personal interests. Lastly, the Credits page acknowledges the individuals and resources that have contributed to my journey in design and beyond.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
-Navigation Bar: Provides easy access to different sections of the website, including Home, About, Projects, Skills and Interests, and Credits.
+Navigation Menu: Includes links to essential sections such as Home, About, Projects, Skills and Interests, and Credits. This menu facilitates easy navigation throughout the site.
 
-Home Page: Features links to your social media profiles (Instagram and Facebook) and a welcoming section with your tagline or a brief introduction.
+Home Page: Features social media links (e.g., Instagram, Facebook) prominently displayed for easy access. This page serves as an entry point to the rest of the website.
 
-About Page: Contains detailed information about your background, experiences, and personal story.
+About Section: Provides comprehensive information about yourself, covering personal details and background information.
 
-Projects Page: Showcases all your projects in organized containers, along with a button to scroll up and view all projects easily.
+Projects Section: Displays a collection of your projects in containers. Each project container includes functionalities such as deployment links, repository access, and a scroll-up button for user convenience.
 
-Skills and Interests Page: Highlights your various skills, competencies, and interests.
+Skills and Interests: Highlights your skills and personal interests, giving visitors insights into your areas of expertise and passion.
 
-Credits Page: Acknowledges the individuals and resources that have supported you in your journey, offering thanks and recognition.
-
-Social Media Links: Icons and links to your Instagram and Facebook profiles for visitors to connect with you.
+Credits Section: Acknowledges and gives thanks to individuals and resources that have played a significant role in your design journey and beyond.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
